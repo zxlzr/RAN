@@ -1,15 +1,3 @@
-# RAN
-The dataset of the paper "Relation Adversarial Network for Low Resource Knowledge Graph Completion".
+# Weighted Relation Adversarial Network (wRAN) Model for Low Resouece Knowledge Graph Completion  Tasks including Link Prediction and Relation Extraction
 
-If you use the dataset, pleace cite the following [paper]():
-
-```
-@inproceedings{zhang2019rangan,
-  title={Relation Adversarial Network for Low Resource Knowledge Graph Completion},
-  author={Ningyu Zhang, Shumin Deng,  Zhanlin Sun,  Jiaoyan Chen, Wei Zhang, Huajun Chen},
-  year={2020}
-}
- 
-```
-
-
+This repository  include the dataset of the paper "Relation Adversarial Network for Low Resource Knowledge Graph Completion".
